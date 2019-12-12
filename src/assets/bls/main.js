@@ -1,9 +1,9 @@
 /**
  * Created by Chen ju wei on 2019/2/28.
  */
-import SceneBuilder from './sceneBuilder.js.js'
-import Loader from './loader.js.js'
-import LightsBuilder from './lightsBuilder.js.js'
+import SceneBuilder from './sceneBuilder.js'
+import Loader from './loader.js'
+import LightsBuilder from './lightsBuilder.js'
 //定义Babylon
 window.BLS = {};
 var canvas, engine, scene;
